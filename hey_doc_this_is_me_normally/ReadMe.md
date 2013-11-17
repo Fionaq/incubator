@@ -34,6 +34,8 @@ _(don't add nice-to-haves to this list!)_
     - free text section that we can use to inform next features
 5. Doc can save/delete shortcuts to profiles (but can _only_ view online)
 6. Users can store the profiles they own locally to view offline
+7. Ability to record a summary of a latest consultation
+8. Make use of Medications regime data - reminders
 
 ### Tech spec basics 
 _(platforms, programming languages, infrastructure)_
@@ -51,6 +53,7 @@ _(platforms, programming languages, infrastructure)_
 
 ### Current top naming suggestions 
 _useful as a sanity check for your minimum viable implementation_
+
 
 ### TODO list of next-steps
 - technical
